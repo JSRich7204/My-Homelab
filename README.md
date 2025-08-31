@@ -25,7 +25,7 @@ This project serves as both a learning log and a public portfolio as I grow my s
 - **OS:** Ubuntu Server (version TBD)
 - **Power:** Always plugged in (acts as 24/7 host)
 - **Form Factor:** Laptop
-- 
+  
 ### 💻 Client: MacBook Air (M1)
 
 - **Model:** MacBook Air (Apple Silicon, M1)
