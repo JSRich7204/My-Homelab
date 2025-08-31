@@ -1,0 +1,43 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# System files
+*.swp
+*.swo
+
+# Docker volumes and environment files
+.env
+*.pid
+
+# Python cache and virtualenvs (if used)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+
+# Media and mount points
+/mnt/*
+/media/*
+/downloads/*
+/games/*
+
+# Application-specific
+node_modules/
+.cache/
+.history/
+
+# VSCode / JetBrains IDE
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.tmp
+*~
